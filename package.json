@@ -1,6 +1,6 @@
 {
   "name": "attach",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Add attach functionality to a routable object",
   "keywords": ["router", "attach", "child", "parent"],
   "author": "RGBboy <me@rgbboy.com>",
